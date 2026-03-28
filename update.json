@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 1,
-  "latestVersionName": "1.1.2",
-  "apkDownloadUrl": "https://github.com/modi-smit/scanner-updates/releases/download/v1.1.2/app-release.apk",
+  "latestVersionCode": 2,
+  "latestVersionName": "1.2",
+  "apkDownloadUrl": "https://github.com/modi-smit/scanner-updates/releases/download/v1.2/app-release.apk",
   "releaseNotes": "Scanner Pro auto-update system added."
 }
